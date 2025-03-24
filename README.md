@@ -50,7 +50,7 @@ A modern web application that uses AI to process and analyze your Jira backlog b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vibe-jira-assistant.git
+   git clone https://github.com/rmohid/vibe-jira-assistant.git
    cd vibe-jira-assistant/frontend
    ```
 
